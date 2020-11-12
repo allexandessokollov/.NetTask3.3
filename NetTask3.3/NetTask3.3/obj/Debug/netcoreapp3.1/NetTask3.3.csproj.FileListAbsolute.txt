@@ -1,0 +1,13 @@
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.exe
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.deps.json
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.runtimeconfig.json
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.runtimeconfig.dev.json
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.dll
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\bin\Debug\netcoreapp3.1\NetTask3.3.pdb
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.csprojAssemblyReference.cache
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.AssemblyInfoInputs.cache
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.AssemblyInfo.cs
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.csproj.CoreCompileInputs.cache
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.dll
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.pdb
+C:\Git\.NetTask3.3\NetTask3.3\NetTask3.3\obj\Debug\netcoreapp3.1\NetTask3.3.genruntimeconfig.cache
